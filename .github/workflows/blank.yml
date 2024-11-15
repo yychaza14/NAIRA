@@ -29,4 +29,4 @@ jobs:
         SPREADSHEET_ID_1: ${{ secrets.SPREADSHEET_ID_1 }}
         SPREADSHEET_ID_2: ${{ secrets.SPREADSHEET_ID_2 }}
       run: |
-        python main.py
+        python USDT.ipynb
